@@ -1,12 +1,12 @@
 x = 200
 y = 300
 
-if x == y:
+if (x == y):
     print("Both are equal")
 
-if y >= x:
+if (y >= x):
     print("Y is greater then X")
-elif y== x:
+elif (y== x):
     
     print("X and Y are equal")
 else:
